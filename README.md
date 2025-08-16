@@ -33,3 +33,6 @@ Name : Crom (Doyoung.Y)
  - [OS](https://www.instagram.com/official_cse_os/profilecard/?igsh=MTJidGh3eHp4azdheQ%3D%3D) | 컴퓨터학부 소모임 OS 회장 | 24.12 - Current
  - [SCCC](https://sccc.kr/) | 컴퓨터학부 소모임 SCCC 부원 | 24.03 - Current
  - [하라오름](https://cafe.naver.com/ssuharaorum) | 컴퓨터학부 소모임 하라오름 부원 | 24.03 - Current
+
+## 블로그 활동
+ - [CromArchive](https://cromcode.tistory.com/)
