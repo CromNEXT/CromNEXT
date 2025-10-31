@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Crom's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yooze's%20Github&fontSize=90)
 ## Hi there 👋
-Name : Crom (Doyoung.Y)
+Name : Yooze (Doyoung.Y)
 
 ## 📚 Education
 
@@ -31,7 +31,7 @@ Name : Crom (Doyoung.Y)
    
 ## 🏃‍➡️ Activities
  - [OS](https://www.instagram.com/official_cse_os/profilecard/?igsh=MTJidGh3eHp4azdheQ%3D%3D) | 컴퓨터학부 소모임 OS 회장 | 24.12 - Current
- - [SCCC](https://sccc.kr/) | 컴퓨터학부 소모임 SCCC 부원 | 24.03 - Current
+ - [SCCC](https://sccc.kr/) | 컴퓨터학부 문제해결 소모임 SCCC 부원 | 24.03 - Current
  - [하라오름](https://cafe.naver.com/ssuharaorum) | 컴퓨터학부 소모임 하라오름 부원 | 24.03 - Current
 
 ## 블로그 활동
