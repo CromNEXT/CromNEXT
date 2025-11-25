@@ -28,7 +28,11 @@ Name : Yooze (Doyoung.Y)
     
 ## Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=crom0524)](https://solved.ac/crom0524)
-   
+
+## 🏆 Prizes
+ - icpc seoul regional 2025 - 숭실대학교 교내 17위
+ - icpc seoul regional 2024 - 숭실대학교 교내 24위
+ 
 ## 🏃‍➡️ Activities
  - [OS](https://www.instagram.com/official_cse_os/profilecard/?igsh=MTJidGh3eHp4azdheQ%3D%3D) | 컴퓨터학부 소모임 OS 회장 | 24.12 - Current
  - [SCCC](https://sccc.kr/) | 컴퓨터학부 문제해결 소모임 SCCC 부원 | 24.03 - Current
