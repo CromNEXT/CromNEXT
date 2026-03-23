@@ -32,13 +32,13 @@ Name : Yooze (Doyoung.Y)
 ## 🏆 Prizes
  - icpc seoul regional 2025 - 숭실대학교 교내 17위
  - icpc seoul regional 2024 - 숭실대학교 교내 24위
- - UMC 9th Demoday 최우수상
+ - UMC 9th Demoday 최우수상 - team아름답
  
 ## 🏃‍➡️ Activities
  - [OS](https://www.instagram.com/official_cse_os/profilecard/?igsh=MTJidGh3eHp4azdheQ%3D%3D) | 컴퓨터학부 소모임 OS 회장 | 24.12 - 25.12
  - [SCCC](https://sccc.kr/) | 컴퓨터학부 문제해결 소모임 SCCC 부회장 | 26.02 - Current
  - [하라오름](https://cafe.naver.com/ssuharaorum) | 컴퓨터학부 소모임 하라오름 부원 | 24.03 - Current
- - [UMC] | UMC 9기 스프링부트 파트 주니어코스 수료 | 25.09 - 26.02
+ - [UMC](https://umc.makeus.in/) | UMC 9기 스프링부트 파트 주니어코스 수료 | 25.09 - 26.02
 
 ## 블로그 활동
  - [CromArchive](https://cromcode.tistory.com/)
