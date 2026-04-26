@@ -25,9 +25,7 @@ Name : Yooze (Doyoung.Y)
           <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
           </div>
     </div>
-    
-## Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=crom0524)](https://solved.ac/crom0524)
+   
 
 ## 🏆 Prizes
  - icpc seoul regional 2025 - 숭실대학교 교내 17위
