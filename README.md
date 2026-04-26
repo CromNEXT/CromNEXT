@@ -37,6 +37,7 @@ Name : Yooze (Doyoung.Y)
  - [SCCC](https://sccc.kr/) | 컴퓨터학부 문제해결 소모임 SCCC 부회장 | 26.02 - Current
  - [하라오름](https://cafe.naver.com/ssuharaorum) | 컴퓨터학부 소모임 하라오름 부원 | 24.03 - Current
  - [UMC](https://umc.makeus.in/) | UMC 9기 스프링부트 파트 주니어코스 수료 | 25.09 - 26.02
+ - [UMC](https://umc.makeus.in/) | UMC 10기 스프링부트 파트 파트장 | 26.02 - Current
 
 ## 블로그 활동
  - [CromArchive](https://cromcode.tistory.com/)
