@@ -29,6 +29,7 @@ Name : Yooze (Doyoung.Y)
 
 ## 🏆 Prizes
  - icpc seoul regional 2025 - 숭실대학교 교내 17위
+ - 2025 SCON - Team : 홍박사님을 아세요 / 15위
  - icpc seoul regional 2024 - 숭실대학교 교내 24위
  - UMC 9th Demoday 최우수상 - team아름답
  
