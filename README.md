@@ -32,6 +32,7 @@ Name : Yooze (Doyoung.Y)
  - 2025 SCON - Team : 홍박사님을 아세요 / 15위
  - icpc seoul regional 2024 - 숭실대학교 교내 24위
  - UMC 9th Demoday 최우수상 - team아름답
+ - 2026 SCON - Team : 정푸름 / 컴퓨터학부 특별상 (IT대 10위)
  
 ## 🏃‍➡️ Activities
  - [OS](https://www.instagram.com/official_cse_os/profilecard/?igsh=MTJidGh3eHp4azdheQ%3D%3D) | 컴퓨터학부 소모임 OS 회장 | 24.12 - 25.12
